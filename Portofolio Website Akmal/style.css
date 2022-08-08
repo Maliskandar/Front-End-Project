@@ -1,0 +1,32 @@
+
+.carousel-caption {
+    margin-bottom: 150px;
+}
+
+.carousel-caption h2{
+    font-size: 35px;
+}
+
+#c1 {
+    padding-top: 5rem;
+}
+
+#project {
+    padding-top: 5rem;
+    background-color: #FCF8E8;
+}
+
+#contact {
+    padding-top: 5rem;
+}
+
+#gallery{
+    padding-top: 5rem;
+    background-color: #FCF8E8;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: rgb(241, 241, 241);
+}
+
